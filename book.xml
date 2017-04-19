@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<store>
+	<book id="1">
+		<title>Ion</title>
+		<author>Liviu Rebreanu</author>
+		<genre>epic</genre>
+		<quantity>60</quantity>
+		<price>30</price>
+	</book>
+	<book id="2">
+		<title>Luceafarul</title>
+		<author>Mihai Eminescu</author>
+		<genre>lyric</genre>
+		<quantity>90</quantity>
+		<price>20</price>
+	</book>
+	<book id="3">
+		<title>Morometii</title>
+		<author>Marin Preda</author>
+		<genre>epic</genre>
+		<quantity>0</quantity>
+		<price>24</price>
+	</book>
+	<book id="4">
+		<title>Enigma Otiliei</title>
+		<author>George Calinescu</author>
+		<genre>epic</genre>
+		<quantity>0</quantity>
+		<price>20</price>
+	</book>
+
+</store>

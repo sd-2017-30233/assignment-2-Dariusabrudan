@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<selling>
+	<book id="1">
+		<title>Ion</title>
+		<author>Liviu Rebreanu</author>
+		<genre>epic</genre>
+		<copy_numbers>10</copy_numbers>
+		<price>30</price>
+		<total_price>300</total_price>
+	</book>
+<book id="225">
+          <title>Luceafarul</title>
+          <author>Mihai Eminescu</author>
+          <genre>lyric</genre>
+          <copy_numbers>25</copy_numbers>
+          <price>20</price>
+          <total_price>500</total_price>
+     </book>
+<book id="25">
+          <title>Luceafarul</title>
+          <author>Mihai Eminescu</author>
+          <genre>lyric</genre>
+          <copy_numbers>5</copy_numbers>
+          <price>20</price>
+          <total_price>100</total_price>
+     </book>
+<book id="120">
+          <title>Ion</title>
+          <author>Liviu Rebreanu</author>
+          <genre>epic</genre>
+          <copy_numbers>20</copy_numbers>
+          <price>30</price>
+          <total_price>600</total_price>
+     </book>
+<book id="120">
+          <title>Ion</title>
+          <author>Liviu Rebreanu</author>
+          <genre>epic</genre>
+          <copy_numbers>20</copy_numbers>
+          <price>30</price>
+          <total_price>600</total_price>
+     </book>
+</selling>

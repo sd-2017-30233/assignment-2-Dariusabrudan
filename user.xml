@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<store>
+	<user id="1">
+		<username>Sorin</username>
+		<password>seful</password>
+		<type>administrator</type>
+	</user>
+	<user id="2">
+		<username>Adrian</username>
+		<password>abecedar</password>
+		<type>employee</type>
+	</user>
+
+<user id="3">
+          <username>Gligor</username>
+          <password>glig22</password>
+          <type>employee</type>
+     </user>
+
+</store>
